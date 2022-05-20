@@ -1,0 +1,44 @@
+.ima{
+    width: 60px;
+    height: 50px;
+}
+.body{
+    
+    margin:auto;
+    border:1px solid black;
+    width: 600px;
+    height: 400px;
+    background-color:orange;
+}
+.body1{
+    margin:auto;
+    border:1px solid black;
+    width: 600px;
+    height: 400px;
+    background-color:whitesmoke;
+}
+.head{
+    
+  display: flex;
+  justify-content: space-between;
+  margin:20px;
+  font-size:25px;
+}
+.side{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:25px; 
+}
+.case{
+    width: 120px;
+    padding:6px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    background-color:black;
+    color:white;
+    font-size:15px;
+}
+.foot{
+    display: flex;
+  justify-content: space-between;
+ 
+}
